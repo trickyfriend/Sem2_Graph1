@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Sem2_Graph1\Sem2_Graph1\bin\Debug\Sem2_Graph1.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Sem2_Graph1\Sem2_Graph1\bin\Debug\Sem2_Graph1.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Sem2_Graph1\Sem2_Graph1\bin\Debug\Sem2_Graph1.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Sem2_Graph1\Sem2_Graph1\obj\Debug\Sem2_Graph1.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Sem2_Graph1\Sem2_Graph1\obj\Debug\Sem2_Graph1.GraphForm.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Sem2_Graph1\Sem2_Graph1\obj\Debug\Sem2_Graph1.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Sem2_Graph1\Sem2_Graph1\obj\Debug\Sem2_Graph1.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Sem2_Graph1\Sem2_Graph1\obj\Debug\Sem2_Graph1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Sem2_Graph1\Sem2_Graph1\obj\Debug\Sem2_Graph1.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Sem2_Graph1\Sem2_Graph1\obj\Debug\Sem2_Graph1.pdb
